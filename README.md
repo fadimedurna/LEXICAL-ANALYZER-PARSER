@@ -1,4 +1,4 @@
-# LEXICAL-ANALYZER-PARSER
+# Lexical-Analizer/Parser
 Lexical analysis is the first phase of converting a high level PL to a machine language. Lexical analyzer reads the given characters from our source code and tokenize them to check the tokens’ / lexemes’ types and validity. In this part of your homework you are asked to implement a simple lexical analyzer/parser of your own. Please note that YOU DO NOT HAVE TO CHECK THE WHOLE SYNTAX AND LOGIC VALIDITY. I.e. do not try to check the order corrections, e.g. a + b = c and so on. Keep the idea simple and check the tokens / lexemes only.
 
 You should check:
